@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 **Live Demo:** https://ai-products-portfolio.vercel.app/
+## 🌐 **Portfolio Link:** https://ai-products-portfolio.vercel.app/
 
 ---
 
