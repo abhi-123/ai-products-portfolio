@@ -66,6 +66,11 @@ npm run preview
 - React (UI)
 - Vite (build/dev)
 
+---
+
+💡 Built with passion for AI + real-world problem solving  
+📬 Open for freelance & collaboration
+
 ## License
 
 All rights reserved.
