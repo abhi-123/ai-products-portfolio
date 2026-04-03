@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 **Live Demo:** https://ai-writewise.vercel.app/
+## 🌐 **Live Demo:** https://ai-products-portfolio.vercel.app/
 
 ---
 
