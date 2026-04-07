@@ -5,6 +5,7 @@ import SmartManager from "./assets/smart-manager.png";
 import StockAssistant from "./assets/stock-assistant.png";
 import Summarizer from "./assets/summarizer.png";
 import Writewise from "./assets/writewise.png";
+import GhostReply from "./assets/ghost-reply-generator.png";
 
 const projectsData = [
   {
@@ -18,6 +19,15 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "Ghost Reply Generator",
+    image: GhostReply, // 🔥 apna image import kar lena
+    shortDesc: "Instant AI replies with Gen-Z vibe 😏",
+    fullDesc:
+      "A fun, fast AI utility that generates witty, savage, flirty, or professional replies instantly. Designed for real-time chat use with minimal effort and maximum personality — no login, no friction, just smart replies.",
+    link: "https://ai-ghost-reply-generator.vercel.app/",
+  },
+  {
+    id: 3,
     title: "AI Mock Interview",
     image: Interview,
     shortDesc: "Practice interviews with AI.",
@@ -26,7 +36,7 @@ const projectsData = [
     link: "https://ai-mock-interviewer-omega-ruddy.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Resume Analyzer",
     image: ResumeAnalyzer,
     shortDesc: "Optimize resume using AI.",
@@ -35,7 +45,7 @@ const projectsData = [
     link: "https://ai-resume-analyzer-indol-one.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "AI WriteWise",
     image: Writewise,
     shortDesc: "AI writing assistant.",
@@ -44,7 +54,7 @@ const projectsData = [
     link: "https://ai-writewise.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "AI Summarizer",
     image: Summarizer,
     shortDesc: "Summarize content instantly.",
@@ -53,7 +63,7 @@ const projectsData = [
     link: "https://ai-summarizer-silk-nine.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "AI Stock Assistant",
     image: StockAssistant,
     shortDesc: "AI stock insights.",

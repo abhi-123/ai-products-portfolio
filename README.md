@@ -27,14 +27,15 @@
 
 ## Featured Projects
 
-| Project            | What it does                                                    | Live demo                                           |
-| ------------------ | --------------------------------------------------------------- | --------------------------------------------------- |
-| AI Smart Manager   | AI-powered task manager with smart subtasks.                    | https://ai-smart-manager.vercel.app/                |
-| AI Mock Interview  | Practice interviews with AI-generated questions + feedback.     | https://ai-mock-interviewer-omega-ruddy.vercel.app/ |
-| Resume Analyzer    | Optimize resumes against job descriptions (ATS insights).       | https://ai-resume-analyzer-indol-one.vercel.app/    |
-| AI WriteWise       | Generate professional content with tone + clarity improvements. | https://ai-writewise.vercel.app/                    |
-| AI Summarizer      | Summarize long content while preserving context.                | https://ai-summarizer-silk-nine.vercel.app/         |
-| AI Stock Assistant | AI-driven stock trend insights and interpretation.              | https://ai-stock-assistant-sigma.vercel.app/        |
+| Project               | What it does                                                    | Live demo                                           |
+| --------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| AI Smart Manager      | AI-powered task manager with smart subtasks.                    | https://ai-smart-manager.vercel.app/                |
+| AI Mock Interview     | Practice interviews with AI-generated questions + feedback.     | https://ai-mock-interviewer-omega-ruddy.vercel.app/ |
+| Resume Analyzer       | Optimize resumes against job descriptions (ATS insights).       | https://ai-resume-analyzer-indol-one.vercel.app/    |
+| AI WriteWise          | Generate professional content with tone + clarity improvements. | https://ai-writewise.vercel.app/                    |
+| AI Summarizer         | Summarize long content while preserving context.                | https://ai-summarizer-silk-nine.vercel.app/         |
+| AI Stock Assistant    | AI-driven stock trend insights and interpretation.              | https://ai-stock-assistant-sigma.vercel.app/        |
+| Ghost Reply Generator | AI-driven short, natural chat replies.                          | https://ai-ghost-reply-generator.vercel.app/        |
 
 ## Why this portfolio works
 
