@@ -6,10 +6,20 @@ import StockAssistant from "./assets/stock-assistant.png";
 import Summarizer from "./assets/summarizer.png";
 import Writewise from "./assets/writewise.png";
 import GhostReply from "./assets/ghost-reply-generator.png";
+import AIChatApp from "./assets/ai-chat.png";
 
 const projectsData = [
   {
     id: 1,
+    title: "AI Chat Application",
+    image: AIChatApp,
+    shortDesc: "Real-time AI chat app with streaming responses.",
+    fullDesc:
+      "A full-stack AI-powered chat application that delivers real-time streaming responses using React and FastAPI. It features smooth typing effects, markdown rendering with code highlighting, intelligent context handling, and a clean ChatGPT-like UI. Optimized for performance with efficient state management and scalable architecture, and fully deployed on Vercel and Render.",
+    link: "https://your-live-link.vercel.app/",
+  },
+  {
+    id: 2,
     title: "AI Smart Manager",
     image: SmartManager,
     shortDesc: "AI-powered task manager with smart subtasks.",
@@ -18,16 +28,16 @@ const projectsData = [
     link: "https://ai-smart-manager.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Ghost Reply Generator",
-    image: GhostReply, // 🔥 apna image import kar lena
+    image: GhostReply,
     shortDesc: "Instant AI replies with Gen-Z vibe 😏",
     fullDesc:
       "A fun, fast AI utility that generates witty, savage, flirty, or professional replies instantly. Designed for real-time chat use with minimal effort and maximum personality — no login, no friction, just smart replies.",
     link: "https://ai-ghost-reply-generator.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "AI Mock Interview",
     image: Interview,
     shortDesc: "Practice interviews with AI.",
@@ -36,7 +46,7 @@ const projectsData = [
     link: "https://ai-mock-interviewer-omega-ruddy.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Resume Analyzer",
     image: ResumeAnalyzer,
     shortDesc: "Optimize resume using AI.",
@@ -45,7 +55,7 @@ const projectsData = [
     link: "https://ai-resume-analyzer-indol-one.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "AI WriteWise",
     image: Writewise,
     shortDesc: "AI writing assistant.",
@@ -54,7 +64,7 @@ const projectsData = [
     link: "https://ai-writewise.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "AI Summarizer",
     image: Summarizer,
     shortDesc: "Summarize content instantly.",
@@ -63,7 +73,7 @@ const projectsData = [
     link: "https://ai-summarizer-silk-nine.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "AI Stock Assistant",
     image: StockAssistant,
     shortDesc: "AI stock insights.",
@@ -97,11 +107,13 @@ export default function App() {
         </h1>
 
         <p className="mt-6 text-gray-600 max-w-xl mx-auto text-lg">
-          I create modern AI-driven tools focused on productivity, automation,
-          and real-world impact.
+          I build modern, AI-powered applications focused on productivity,
+          automation, and solving real-world problems with clean, scalable
+          design.
         </p>
+
         <p className="mt-4 text-sm text-gray-500">
-          🚀 6+ AI Projects • React • Automation • Real-world tools
+          🚀 8+ AI Projects • React • Full-Stack Development • Real-time Systems
         </p>
         <div className="mt-8 flex justify-center gap-4">
           <button

@@ -29,6 +29,7 @@
 
 | Project               | What it does                                                    | Live demo                                           |
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| AI Chat App           | ChatGPT-style AI chat UI.                                       | https://ai-chat-app-six-alpha.vercel.app/           |
 | AI Smart Manager      | AI-powered task manager with smart subtasks.                    | https://ai-smart-manager.vercel.app/                |
 | AI Mock Interview     | Practice interviews with AI-generated questions + feedback.     | https://ai-mock-interviewer-omega-ruddy.vercel.app/ |
 | Resume Analyzer       | Optimize resumes against job descriptions (ATS insights).       | https://ai-resume-analyzer-indol-one.vercel.app/    |
